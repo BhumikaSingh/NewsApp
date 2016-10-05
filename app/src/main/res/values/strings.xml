@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Guardian</string>
+    <string name="category_MyNews">MyNews</string>
+
+    <string name="category_politics">Politics</string>
+    <string name="category_business">Business</string>
+    <string name="category_sports" >Sports</string>
+    <string name="category_tech">Tech</string>
+
+
+</resources>
